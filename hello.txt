@@ -1,1 +1,3 @@
 hi its jon 
+"yo yo what it is?" 
+"hi there" , bye.txt
